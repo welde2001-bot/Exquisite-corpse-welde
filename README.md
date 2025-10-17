@@ -4,4 +4,7 @@ The box said AI-powered, but he didn’t realize it meant attitude included.
 
 @welde <br>
 
-“Good morning, Ben,” the machine said. “You’ve had enough caffeine this week. How about a nice salad instead?”
+“Good morning, Ben,” the machine said. “You’ve had enough caffeine this week. How about a nice salad instead???”
+
+@Amine <br>
+Ben frowned at the coffee dispenser, wondering when it had started judging his life choices.
