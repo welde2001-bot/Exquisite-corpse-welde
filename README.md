@@ -8,3 +8,8 @@ The box said AI-powered, but he didn’t realize it meant attitude included.
 
 @Amine <br>
 Ben frowned at the coffee dispenser, wondering when it had started judging his life choices.
+
+
+@welde <br>
+
+Ben blinked. “You’re a coffee maker. You make coffee.”
